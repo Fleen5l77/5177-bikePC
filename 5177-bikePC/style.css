@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  
+  .container > div {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
